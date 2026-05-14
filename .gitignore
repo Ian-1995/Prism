@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs / temp
+*.log
+.tmp/
+tmp/
+
+# 本機產生的 analyses：預設忽略所有，但保留 example/ 作為對外公開範例
+docs/analyses/*
+!docs/analyses/example/
+!docs/analyses/example/**
+
+# 內部開發工作文件（不公開到 GitHub；公開版見 example_claude.md）
+CLAUDE.md
+HANDOFF.md
+docs/PROGRESS.md
+docs/meta/02_phase_roadmap.md
+
+# Claude Code 本機設定（permissions / env，每位開發者自己的）
+.claude/settings.local.json
+
+# Python（如未來加入分析腳本）
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node（如未來加入工具腳本）
+node_modules/

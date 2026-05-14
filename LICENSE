@@ -1,0 +1,131 @@
+Prism Non-Commercial License (Prism-NC 1.0)
+============================================
+
+Copyright (c) 2026 Ian Xu
+
+本授權書同時以中英文寫成。中文與英文版本具同等效力；若兩者意義不一致，
+以原作者書面釋義為準。
+This license is provided in both Chinese and English. The two versions are
+equally authoritative; in case of any inconsistency, written interpretation
+by the original author shall prevail.
+
+---------------------------------------------------------------------------
+1. 授權標的 / Subject of License
+---------------------------------------------------------------------------
+
+本授權書適用於本檔案所在的 repository（以下稱「本軟體」）所包含的全部
+原始碼、文件、設定檔、範本與相關產出。
+
+This license applies to all source code, documentation, configuration
+files, templates, and related artifacts contained in the repository in
+which this LICENSE file resides ("the Software").
+
+---------------------------------------------------------------------------
+2. 准許之使用 / Permitted Use
+---------------------------------------------------------------------------
+
+在遵守本授權書所有條件的前提下，任何人均可免費為下列「非商業目的」使
+用、複製、修改、合併、散布本軟體：
+
+Subject to all terms of this license, any person may, free of charge, use,
+copy, modify, merge, and distribute the Software for the following
+non-commercial purposes:
+
+  (a) 個人學習、研究、教學、評估；
+      Personal study, research, teaching, and evaluation;
+  (b) 非營利組織為其內部運作之使用；
+      Use by non-profit organizations for their internal operations;
+  (c) 為本專案提交修改、修補、提案或衍生作品（pull request、fork、
+      公開展示等）；
+      Submission of modifications, patches, proposals, or derivative
+      works back to this project (pull requests, forks, public
+      demonstrations, etc.);
+  (d) 學術或技術文章中之引用與展示。
+      Citation and demonstration in academic or technical writings.
+
+---------------------------------------------------------------------------
+3. 禁止之使用 / Prohibited Use
+---------------------------------------------------------------------------
+
+未經原作者 Ian Xu 事前書面同意，禁止下列任何形式的「商業使用」：
+
+The following forms of "commercial use" are prohibited without the prior
+written consent of the original author, Ian Xu:
+
+  (a) 為自身或第三方提供以本軟體（或其衍生作品）為核心的付費分析、
+      顧問、SaaS、API、訂閱、或其他付費服務；
+      Providing paid analysis, consulting, SaaS, API, subscription, or
+      any other paid service that uses the Software (or any derivative)
+      as its core;
+  (b) 將本軟體或其衍生作品內嵌入任何販售之產品、服務、訓練資料、
+      或商業 AI 平台；
+      Embedding the Software or derivatives into any product, service,
+      training dataset, or commercial AI platform that is sold;
+  (c) 在營利組織內部以本軟體取代付費工具，且該使用為該組織核心營
+      收業務之一部分。一般員工為公司內部生產力之非核心使用不在此限。
+      Replacing paid tools with the Software inside a for-profit
+      organization, where such use is part of that organization's core
+      revenue-generating business. Ordinary employee productivity use
+      that is not part of the core business is not restricted.
+
+「商業使用」涵蓋直接或間接以本軟體獲取金錢、加密貨幣或同等價值之
+任何活動。
+
+"Commercial use" includes any activity that directly or indirectly
+derives monetary, cryptocurrency, or equivalent value from the Software.
+
+---------------------------------------------------------------------------
+4. 商業使用授權 / Commercial License
+---------------------------------------------------------------------------
+
+若需商業使用，請向原作者 Ian Xu 申請個別商業授權。聯絡方式以本
+repository 之 GitHub profile 或 README 所載資訊為準。
+
+For commercial use, please request an individual commercial license from
+the original author, Ian Xu. Contact details are as listed on the GitHub
+profile or README of this repository.
+
+---------------------------------------------------------------------------
+5. 著作權標示 / Attribution
+---------------------------------------------------------------------------
+
+所有複製、散布、衍生作品須保留本授權書全文與原始著作權聲明。
+
+All copies, distributions, and derivative works must retain the full text
+of this license and the original copyright notice.
+
+---------------------------------------------------------------------------
+6. 免責聲明 / Disclaimer
+---------------------------------------------------------------------------
+
+本軟體依「現狀」提供，不附任何明示或默示之擔保，包括但不限於可商
+品性、特定用途適用性與不侵權之擔保。原作者對因使用或無法使用本軟
+體所生之任何直接、間接、附隨、特殊或衍生損害不負任何責任。
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+---------------------------------------------------------------------------
+7. 終止 / Termination
+---------------------------------------------------------------------------
+
+違反本授權書任一條件，授權即自動終止；終止後應立即停止使用並銷毀
+所有副本。原作者得於必要時以書面恢復授權。
+
+Any breach of this license automatically terminates the license. Upon
+termination, all use must cease immediately and all copies must be
+destroyed. The original author may, at their discretion, reinstate the
+license in writing.
+
+---------------------------------------------------------------------------
+
+本授權書之設計參考 PolyForm Noncommercial 1.0.0 與 CC BY-NC 4.0 之
+精神，但條款以本文為準。
+
+This license is inspired by PolyForm Noncommercial 1.0.0 and CC BY-NC 4.0
+in spirit, but the operative terms are as stated in this document.
